@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/test/insights/fasting-for-3-days-reduces-igf-1-levels-by-as-much-as-54/"}
+---
+
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Content Sources</span><span class="dataview small-text">0</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div>
+
+
+Source_Content:: [[Test/Source Content/longoUtilizationFastingMimickingDiet2023 - figure 1A\|longoUtilizationFastingMimickingDiet2023 - figure 1A]], [[Test/Source Content/longoUtilizationFastingMimickingDiet2023 - figure 1B\|longoUtilizationFastingMimickingDiet2023 - figure 1B]], [[Test/Source Content/longoUtilizationFastingMimickingDiet2023 - figure 1C\|longoUtilizationFastingMimickingDiet2023 - figure 1C]], [[Test/Source Content/longoUtilizationFastingMimickingDiet2023 - figure 1D\|longoUtilizationFastingMimickingDiet2023 - figure 1D]], [[Test/Source Content/longoUtilizationFastingMimickingDiet2023 - results and methods explanation referencing figure 1 (patent section 0066)\|longoUtilizationFastingMimickingDiet2023 - results and methods explanation referencing figure 1 (patent section 0066)]], [[Test/Source Content/longoUtilizationFastingMimickingDiet2023 - results explanation referencing figure 1 (patent section 0067)\|longoUtilizationFastingMimickingDiet2023 - results explanation referencing figure 1 (patent section 0067)]]
+Supporting_Insights:: 
