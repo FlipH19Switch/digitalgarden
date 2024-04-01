@@ -1,6 +1,0 @@
----
-{"dg-publish":true,"permalink":"/test/insights/refeeding-but-not-the-fmd-itself-causes-apoptosis-in-senescent-lt-hs-cs-in-the-bone-marrow-following-two-consecutive-fmd-cycles/"}
----
-
-
-Supporting_Insights:: [[Test/Insights/The % of cas3+p16+ LT-HSCs increases from ~1% to ~3% in the bone marrow of 22-month-old mice at 24 hours after refeeding following two consecutive FMD cycles\|The % of cas3+p16+ LT-HSCs increases from ~1% to ~3% in the bone marrow of 22-month-old mice at 24 hours after refeeding following two consecutive FMD cycles]], [[Test/Insights/The % of cas3+p16+ LT-HSCs in the bone marrow of 22-month-old mice is not affected by an FMD cycle\|The % of cas3+p16+ LT-HSCs in the bone marrow of 22-month-old mice is not affected by an FMD cycle]], [[Test/Insights/The % of cas3+ LT-HSCs increases from ~1% to ~3% in the bone marrow of 22-month-old mice at 24 hours after refeeding following two consecutive FMD cycles\|The % of cas3+ LT-HSCs increases from ~1% to ~3% in the bone marrow of 22-month-old mice at 24 hours after refeeding following two consecutive FMD cycles]], [[Test/Insights/The % of cas3+ LT-HSCs in the bone marrow of 22-month-old mice is not affected by an FMD cycle\|The % of cas3+ LT-HSCs in the bone marrow of 22-month-old mice is not affected by an FMD cycle]]
