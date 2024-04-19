@@ -30,7 +30,8 @@ while (stack.length > 0) {
         inlink.path.includes("Insights") ||
         inlink.path.includes("Source Content") ||
         inlink.path.includes("Studies") ||
-        inlink.path.includes("Patents")     
+        inlink.path.includes("Patents") ||
+        inlink.path.includes("Reviews")    
         ) {
         pages.add(inlink.path);
         stack.push(inlink.path);
@@ -44,11 +45,12 @@ let data = dv.array(Array.from(pages)).map(p => dv.page(p));
 // FIlter out relevant links
 data = data.filter(data => 
 	data.file.path.split('/').includes("Studies") ||
-	data.file.path.split('/').includes("Patents")
+	data.file.path.split('/').includes("Patents") ||
+	data.file.path.split('/').includes("Reviews")
 	);
 
 
 // Create table
-dv.table(["Source", "Citation Key"], data.map(p => [p.file.frontmatter.Citation, p.file.name]));
+dv.table(["Source", "Citation Key"], data.map(p => [p.file.frontmatter.Citation, p.file.link]));
 
 </div></div>
