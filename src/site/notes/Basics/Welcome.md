@@ -7,3 +7,4 @@
 - [GitHub](https://github.com/FlipH19Switch)
 - [Upwork](https://www.upwork.com/freelancers/~011175ac2af7b2650c)
 - [YouTube](https://www.youtube.com/@ZachsLearningJourney)
+- [Reddit](https://old.reddit.com/user/FlipH19Switch/)
