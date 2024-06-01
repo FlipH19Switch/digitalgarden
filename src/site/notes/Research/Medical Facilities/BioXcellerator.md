@@ -26,7 +26,7 @@ Medellin, Antiqua, Colombia, 050022
 Spanish
 ## Clinic Transparency
 ### Cost
-Not available on website
+Not found on website
 ### Associated Publications
 #### Studies on PubMed
 None found
@@ -65,19 +65,20 @@ None found
 - [[MSC Exosomes\|MSC Exosomes]] ([ref](https://www.bioxcellerator.com/science))
 	- Concentrated
 ### Injection Types
-- Intravenous
-	- Included with most patient protocols
-- Intralesional
-- Intraarticular
-- Intradiscal
-- Intrathecal
-- Intradermal
-- Intracavernous
-- Intratesticular
-- Intraovarian
-- Intrauterine
-- Intraprostatic
-- Intracystic/bladder
+- Listed on [this page](https://www.bioxcellerator.com/science)
+	- Intravenous
+		- Included with most patient protocols
+	- Intralesional
+	- Intraarticular
+	- Intradiscal
+	- Intrathecal
+	- Intradermal
+	- Intracavernous
+	- Intratesticular
+	- Intraovarian
+	- Intrauterine
+	- Intraprostatic
+	- Intracystic/bladder
 ### Imaging Guidance
 - X-ray fluoroscopy ([ref](https://www.bioxcellerator.com/science))
 - Diagnostic ultrasound ([ref](https://www.bioxcellerator.com/science))
