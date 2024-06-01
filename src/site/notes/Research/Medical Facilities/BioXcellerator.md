@@ -9,7 +9,7 @@ Last updated: 2024-06-01
 
 
 
-While I may get help with sourcing the information for this page, this page is maintained by only one person (me, Zach) and it may be outdated when you see it. All the information here was either found by me or checked by me before I included it. I do my best to include references where possible, but these may also become outdated when the referenced webpages are updated. If you find any incorrect information on this page, if you disagree with something, or if you otherwise want to get in touch, please reach out to me via [email](mailto:learningjourneycontact2024@gmail.com). 
+While I may get help with sourcing the information for this page, this page is maintained by only one person (me, Zach) and it may be outdated when you see it. All the information here was either found by me or checked by me before I included it. I do my best to include references where possible, but these may also become outdated when the referenced webpages are updated. If you find any incorrect information on this page, if you disagree with something, or if you just want to get in touch, please reach out to me via [email](mailto:learningjourneycontact2024@gmail.com). 
 
 </div></div>
 
