@@ -2,6 +2,15 @@
 {"dg-publish":true,"permalink":"/research/medical-facilities/bio-xcellerator/"}
 ---
 
+# Contact
+## Website
+[BioXcellerator Website](https://www.bioxcellerator.com/)
+## Address
+Torre Medica 2 Office 944
+CRA. 25A #1A SUR -45
+Medellin, Antiqua, Colombia, 050022
+## Phone
+1-888-567-2469
 # Clinic Transparency
 ## Cost
 
