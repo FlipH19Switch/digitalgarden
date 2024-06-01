@@ -6,7 +6,10 @@
 ## Cost
 
 ## Published Outcomes
+### Peer-Reviewed
 
+## Other Peer-Reviewed Publications
+- Mesa Bedoya, Luz Estella, Jhyld Carolaind Camacho Barbosa, Lucas López Quiceno, Freddy Barrios Arroyave, Karolynn Halpert, Julián Andrés España Peña, and Juan Carlos Salazar Uribe. “The Safety Profile of Mesenchymal Stem Cell Therapy Administered through Intrathecal Injections for Treating Neurological Disorders: A Systematic Review and Meta-Analysis of Randomised Controlled Trials.” Stem Cell Research & Therapy 15, no. 1 (May 20, 2024): 146. https://doi.org/10.1186/s13287-024-03748-7.
 # Patient Anecdotes
 
 # Treatment Options
