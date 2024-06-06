@@ -37,7 +37,7 @@ None found
 - [Webpage with information](https://www.bioxcellerator.com/clinical-studies)
 - [Webpage with information](https://www.bioxcellerator.com.co/bioxscience-grupo-de-investigacion/investigacion/#1645993889422-4ce51730-3608)
 ## Patient Experiences
-<blockquote class="reddit-embed-bq" data-embed-height="600"><a href="https://www.reddit.com/r/stemcells/comments/1auvgfz/comment/kraebca/">Comment</a><br> by<a href="https://www.reddit.com/user/No_Dog_3132/">u/No_Dog_3132</a> from discussion<a href="https://www.reddit.com/r/stemcells/comments/1auvgfz/how_did_stem_cells_help_you_research/"><no value=""></no></a><br> in<a href="https://www.reddit.com/r/stemcells/">stemcells</a></blockquote>
+<iframe src="https://embed.reddit.com/r/stemcells/comments/1auvgfz/comment/kraebca/?embed=true&amp;ref_source=embed&amp;ref=share&amp;utm_medium=widgets&amp;utm_source=embedv2&amp;utm_term=23&amp;showmedia=false&amp;showmore=false&amp;depth=1&amp;utm_name=comment_embed&amp;embed_host_url=https%3A%2F%2Fpublish.reddit.com%2Fembed" width="640" scrolling="no" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups" allow="clipboard-read; clipboard-write" style="border: medium; max-width: 100%; border-radius: 8px; display: block; margin: 0px auto;" height="600"></iframe>
 ### Testimonials Published By Clinic
 - [Webpage with testimonials](https://www.bioxcellerator.com/client-testimonials)
 ## Treatment Details
