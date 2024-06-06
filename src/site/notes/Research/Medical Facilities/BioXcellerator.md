@@ -8,7 +8,7 @@ Last updated: 2024-06-01
 
 
 
-While I may get help with sourcing the information for this page, this page is maintained by only one person (me, Zach) and it may be outdated when you see it. All the information here was either found by me or checked by me before I included it. I do my best to include references where possible, but these may also become outdated when the referenced webpages are updated. If you find any incorrect information on this page, if you disagree with something, or if you just want to get in touch, please reach out to me via [email](mailto:learningjourneycontact2024@gmail.com). 
+While I may get help with sourcing the information for this page, I am the only person who maintains this page, so it may be outdated when you see it. All the information here was either found by me or checked by me before I included it. I do my best to include references where possible, but these may also become outdated when the referenced webpages are updated. If you find any incorrect information on this page, if you disagree with something, or if you just want to get in touch, please reach out to me via [email](mailto:learningjourneycontact2024@gmail.com). 
 
 </div></div>
 
@@ -37,6 +37,9 @@ None found
 - [Webpage with information](https://www.bioxcellerator.com/clinical-studies)
 - [Webpage with information](https://www.bioxcellerator.com.co/bioxscience-grupo-de-investigacion/investigacion/#1645993889422-4ce51730-3608)
 ## Patient Experiences
+> [Comment](https://www.reddit.com/r/stemcells/comments/1auvgfz/comment/kraebca/)  
+> by[u/No_Dog_3132](https://www.reddit.com/user/No_Dog_3132/) from discussion[](https://www.reddit.com/r/stemcells/comments/1auvgfz/how_did_stem_cells_help_you_research/)  
+> in[stemcells](https://www.reddit.com/r/stemcells/)
 ### Testimonials Published By Clinic
 - [Webpage with testimonials](https://www.bioxcellerator.com/client-testimonials)
 ## Treatment Details
