@@ -37,9 +37,7 @@ None found
 - [Webpage with information](https://www.bioxcellerator.com/clinical-studies)
 - [Webpage with information](https://www.bioxcellerator.com.co/bioxscience-grupo-de-investigacion/investigacion/#1645993889422-4ce51730-3608)
 ## Patient Experiences
-> [Comment](https://www.reddit.com/r/stemcells/comments/1auvgfz/comment/kraebca/)  
-> by[u/No_Dog_3132](https://www.reddit.com/user/No_Dog_3132/) from discussion[](https://www.reddit.com/r/stemcells/comments/1auvgfz/how_did_stem_cells_help_you_research/)  
-> in[stemcells](https://www.reddit.com/r/stemcells/)
+<blockquote class="reddit-embed-bq" data-embed-height="600"><a href="https://www.reddit.com/r/stemcells/comments/1auvgfz/comment/kraebca/">Comment</a><br> by<a href="https://www.reddit.com/user/No_Dog_3132/">u/No_Dog_3132</a> from discussion<a href="https://www.reddit.com/r/stemcells/comments/1auvgfz/how_did_stem_cells_help_you_research/"><no value=""></no></a><br> in<a href="https://www.reddit.com/r/stemcells/">stemcells</a></blockquote>
 ### Testimonials Published By Clinic
 - [Webpage with testimonials](https://www.bioxcellerator.com/client-testimonials)
 ## Treatment Details
