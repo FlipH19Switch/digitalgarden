@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/research/medical-facilities/bio-xcellerator/"}
 ---
 
-Last updated: 2024-06-01
+Last updated: 2024-06-06
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -12,7 +12,7 @@ While I may get help with sourcing the information for this page, I am the only 
 
 </div></div>
 
-# Clinic Assessment
+# Clinic Information
 ## General
 ### Website
 [BioXcellerator Website](https://www.bioxcellerator.com/)
@@ -36,10 +36,6 @@ None found
 #### Other
 - [Webpage with information](https://www.bioxcellerator.com/clinical-studies)
 - [Webpage with information](https://www.bioxcellerator.com.co/bioxscience-grupo-de-investigacion/investigacion/#1645993889422-4ce51730-3608)
-## Patient Experiences
-<iframe src="https://embed.reddit.com/r/stemcells/comments/1auvgfz/comment/kraebca/?embed=true&amp;ref_source=embed&amp;ref=share&amp;utm_medium=widgets&amp;utm_source=embedv2&amp;utm_term=23&amp;showmedia=false&amp;showmore=false&amp;depth=1&amp;utm_name=comment_embed&amp;embed_host_url=https%3A%2F%2Fpublish.reddit.com%2Fembed" width="640" scrolling="no" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups" allow="clipboard-read; clipboard-write" style="border: medium; max-width: 100%; border-radius: 8px; display: block; margin: 0px auto;" height="600"></iframe>
-### Testimonials Published By Clinic
-- [Webpage with testimonials](https://www.bioxcellerator.com/client-testimonials)
 ## Treatment Details
 ### Conditions Treated
 - [Autism](https://www.bioxcellerator.com/treatments/autism-and-autism-spectrum-disorder "Autism And Autism Spectrum Disorder")
@@ -83,6 +79,7 @@ None found
 ### Imaging Guidance
 - X-ray fluoroscopy ([ref](https://www.bioxcellerator.com/science))
 - Diagnostic ultrasound ([ref](https://www.bioxcellerator.com/science))
+# Clinic Assessment
 ## Personal Criticisms
 ### Claims
 - Scientific references are often made available but are rarely tied directly to claims. For example, [the main science page](https://www.bioxcellerator.com/science) makes many claims about stem cells and their regenerative potential, but there is not a single inline citation for any of the claims. There is a section of references at the bottom of the page, but this is more of a reference repo for various conditions than it is a specific collection for the claims on the page.
@@ -91,5 +88,11 @@ None found
 ### Blog
 - Studies are not always cited properly when they are referenced. For example, [this page](https://www.bioxcellerator.com/blog/can-acl-tear-heal-on-its-own) refers to at least two studies but does not include any information to help the reader find the studies.
 - It is not clear who writes their blog articles. For example, all nine of the blog articles I found on [page 1 of their blog](https://www.bioxcellerator.com/blog) listed "BioXcellerator" as the author ([link](https://www.bioxcellerator.com/blog/better-nutrition-through-this-diet-can-help-patients-with-ms-and-autoimmune-diseases), [link](https://www.bioxcellerator.com/blog/unlock-your-ultimate-potential-how-tony-robbins-life-force-can-transform-your-life-overnight), [link](https://www.bioxcellerator.com/blog/comparative-effectiveness-of-various-mesenchymal-stem-cell-sources-in-managing-knee-osteoarthritis), [link](https://www.bioxcellerator.com/blog/mesenchymal-stem-cell-therapy-for-knee-osteoarthritis-preliminary-report-of-four-patients), [link](https://www.bioxcellerator.com/blog/testing-the-safety-of-stem-cells-from-bone-marrow-in-treating-erectile-dysfunction-an-initial-study), [link](https://www.bioxcellerator.com/blog/microplastics-invisible-threats-visible-impacts-on-health), [link](https://www.bioxcellerator.com/blog/treatment-of-knee-osteoarthritis-with-mesenchymal-stem-cells-a-pilot-study), [link](https://www.bioxcellerator.com/blog/mesenchymal-stem-cells-and-induced-pluripotent-stem-cells-as-therapies-for-multiple-sclerosis), [link](https://www.bioxcellerator.com/blog/groundbreaking-hope-human-trial-offers-new-hope-for-chronic-spinal-cord-injuries)). Clicking on the author took me back to their homepage.
+## Patient Experiences
+
+### Testimonials Published By Clinic
+- [Webpage with testimonials](https://www.bioxcellerator.com/client-testimonials)
+### Anecdotes
+#### Reddit
 # Database Fields
 Medical_Facility__YouTube_Channel:: [[Research/YouTube Channels/BioXcellerator Stem Cell Therapy\|BioXcellerator Stem Cell Therapy]]
