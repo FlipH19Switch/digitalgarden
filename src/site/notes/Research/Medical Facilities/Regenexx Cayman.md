@@ -4,13 +4,7 @@
 
 # Clinic Assessment
 ## Patient Experiences
-https://g.co/kgs/yvqFtbe
-```embed
-title: "Google review of Regenexx Cayman by Randall Van Kanel"
-image: "https://lh5.googleusercontent.com/p/AF1QipO_c5oZ1SdztTs_Zu93GiUpMOiV0981v8U0A0zl=s1200-k-no"
-description: "★★★★★ “Looking back on my whole experience at Regenexx Cayman, I can only say it was wonderful--all positive! From the successful procedure (PRP) with my knee to the great support from the Staff, I could not have asked for a better outcome. Now, a couple of years later, I have full use of my knee without any pains or limitations. Thank you, Regenexx Cayman!”"
-url: "https://g.co/kgs/yvqFtbe"
-```
+
 ### Reddit
 #### Reddit User highDrugPrices4u  
 ##### Reddit Post ID 181rs5t  
