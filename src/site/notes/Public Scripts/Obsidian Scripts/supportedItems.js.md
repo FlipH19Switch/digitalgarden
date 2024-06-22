@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/public-scripts/obsidian-scripts/supported-items-js/"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
 // Grab all inlinks to the current page
 let pageLinks = dv.array(dv.current().file.path).flatMap(p => dv.page(p).file.inlinks);
 
@@ -48,5 +43,3 @@ dv.table(["Patents", "Citation Key"], patents.map(p => [p.file.frontmatter.Citat
 dv.table(["Reviews", "Citation Key"], reviews.map(p => [p.file.frontmatter.Citation, p.file.link]));
 
 dv.table(["Takeaways"], takeaways.map(p => [p.file.link]));
-
-</div></div>

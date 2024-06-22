@@ -2,16 +2,6 @@
 {"dg-publish":true,"permalink":"/public-scripts/obsidian-scripts/original-sources-js/"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-# originalSources.js
-
-</div>
-
-
 // Similar to code in [Dataview documentation](https://blacksmithgu.github.io/obsidian-dataview/api/code-examples/#find-all-direct-and-indirectly-linked-pages)
 
 // Grab all unique links
@@ -52,5 +42,3 @@ data = data.filter(data =>
 
 // Create table
 dv.table(["Source", "Citation Key"], data.map(p => [p.file.frontmatter.Citation, p.file.link]));
-
-</div></div>

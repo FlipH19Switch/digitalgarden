@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/public-scripts/obsidian-scripts/linked-assumptions-js/"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
 // Grab all outlinks from the current page
 let pageLinks = dv.array(dv.current().file.path).flatMap(p => dv.page(p).file.outlinks);
 
@@ -16,5 +11,3 @@ let linkedAssumptions = Array.from(pageLinks.filter(pageLinks => pageLinks.path.
 
 // Create list
 dv.list(linkedAssumptions);
-
-</div></div>
