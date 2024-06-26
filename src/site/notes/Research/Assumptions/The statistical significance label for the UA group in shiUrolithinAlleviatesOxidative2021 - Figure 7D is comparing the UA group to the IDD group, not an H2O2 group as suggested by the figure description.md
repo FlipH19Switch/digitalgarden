@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/research/assumptions/the-statistical-significance-label-for-the-ua-group-in-shi-urolithin-alleviates-oxidative2021-figure-7-d-is-comparing-the-ua-group-to-the-idd-group-not-an-h2-o2-group-as-suggested-by-the-figure-description/"}
+---
+
+# Notes
+
+# Supported Items
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Insights</span><span class="dataview small-text">0</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Source Content</span><span class="dataview small-text">0</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Evidence Sources</span><span class="dataview small-text">0</span></th><th class="table-view-th"><span>Citation Key</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Takeaways</span><span class="dataview small-text">0</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div>
+
+# Database Fields
