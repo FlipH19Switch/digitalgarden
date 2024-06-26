@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/research/assumptions/the-difference-between-the-control-group-and-the-250-mg-kg-food-day-group-treated-with-a-4g-filament-in-damico-urolithin-improves-mitochondrial2022-figure-4-b-would-be-statistically-significant-if-they-used-larger-cohorts/"}
+---
+
+# Notes
+
+# Supported Items
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Insights</span><span class="dataview small-text">0</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Source Content</span><span class="dataview small-text">0</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Evidence Sources</span><span class="dataview small-text">0</span></th><th class="table-view-th"><span>Citation Key</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Takeaways</span><span class="dataview small-text">0</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div>
+
+# Database Fields
