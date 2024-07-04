@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/research/assumptions/table-1-should-show-l5-s1-for-patient-5-instead-of-l4-l5-based-on-mri-images-in-figure-1-e-and-the-patient-s-results-in-elabd-intradiscal-injection-autologous2016/"}
+---
+
+# Notes
+
+# Supported Items
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Insights</span><span class="dataview small-text">0</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Source Content</span><span class="dataview small-text">0</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Evidence Sources</span><span class="dataview small-text">0</span></th><th class="table-view-th"><span>Citation Key</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Takeaways</span><span class="dataview small-text">0</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div>
+
+# Database Fields
