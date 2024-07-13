@@ -9,5 +9,4 @@
 - [YouTube](https://www.youtube.com/@ZachsLearningJourney)
 - [Reddit](https://old.reddit.com/user/FlipH19Switch/)
 
-
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS33a6RZqgYNh3PSsmmI-9YLPLHFCedOAUYPPi9ECZvKn03mLhyh_ly9Vy4S8JTpyKILibQ8mG9rU_b/pubchart?oid=728534612&amp;format=interactive"></iframe>
+<iframe width=600 height=600 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTvDD3c6w02A1jFa2znINtA9LfIygyv71Y3UYBEVdSHSkPZdQzVKcx82iKR0Az6s2YqoBOuHGOcQo77/pubhtml?gid=763945892&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
