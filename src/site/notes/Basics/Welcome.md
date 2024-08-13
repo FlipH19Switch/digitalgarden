@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/basics/welcome/","tags":["gardenEntry"]}
 ---
 
+# Quick Links
+- Nutrition Log
 # Get in Touch
 - [Email](mailto:learningjourneycontact2024@gmail.com)
 - [GitHub](https://github.com/FlipH19Switch)
