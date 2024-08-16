@@ -3,7 +3,7 @@
 ---
 
 # Quick Links
-- Nutrition Log
+- [[Public Tracking/Nutrition Log\|Nutrition Log]]
 # Get in Touch
 - [Email](mailto:learningjourneycontact2024@gmail.com)
 - [GitHub](https://github.com/FlipH19Switch)
