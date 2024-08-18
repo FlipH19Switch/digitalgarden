@@ -196,4 +196,4 @@
 [45:45](https://www.youtube.com/watch?v=j2_qc-vxCNY&t=1s&t=2745) around metadata menus or data View and see other places for those to plug in that I haven't looked at yet so anyway that's it 
 
 # Database Fields
-YouTube_Video__Slide_Deck:: [[Slide Decks/How I organize research in Obsidian using Canvas, Dataview, DB Folder, and Metadata Menu\|How I organize research in Obsidian using Canvas, Dataview, DB Folder, and Metadata Menu]]
+YouTube_Video__Slide_Deck:: [[Public Slide Decks/How I organize research in Obsidian using Canvas, Dataview, DB Folder, and Metadata Menu\|How I organize research in Obsidian using Canvas, Dataview, DB Folder, and Metadata Menu]]
