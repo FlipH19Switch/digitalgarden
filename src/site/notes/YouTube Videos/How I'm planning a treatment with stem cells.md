@@ -156,4 +156,4 @@ https://www.youtube.com/watch?v=sEFW4G27Knk
 [34:42](https://www.youtube.com/watch?v=sEFW4G27Knk&t=2082) don't think it's a good idea or you just have any thoughts in general I'm all yours and uh don't know exactly when the next part in the series will be but hopefully soon so until next time 
 
 # Database Fields
-YouTube_Video__Slide_Deck:: [[Public Slide Decks/How I'm planning a treatment with stem cells\|How I'm planning a treatment with stem cells]]
+YouTube_Video__Slide_Deck:: [[Public Slide Decks/How I'm planning a treatment with stem cells.excalidraw\|How I'm planning a treatment with stem cells.excalidraw]]
