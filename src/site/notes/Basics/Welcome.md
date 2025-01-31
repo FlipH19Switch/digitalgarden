@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/basics/welcome/","tags":["gardenEntry"],"updated":"2025-01-30T23:20:17-05:00"}
+{"dg-publish":true,"permalink":"/basics/welcome/","tags":["gardenEntry"],"updated":"2025-01-31T00:00:32-05:00"}
 ---
 
+# Get in Touch
+- [Email](mailto:learningjourneycontact2024@gmail.com)
+- [GitHub](https://github.com/FlipH19Switch)
+- [Upwork](https://www.upwork.com/freelancers/~011175ac2af7b2650c)
+- [YouTube](https://www.youtube.com/@ZachsLearningJourney)
+- [Reddit](https://old.reddit.com/user/FlipH19Switch/)
 # Research Notes
-## Overview
+## Research Overview
 - [[Public Research Overview/Assumptions\|Assumptions]]
 - [[Public Research Overview/Insights\|Insights]]
 - [[Public Research Overview/Takeaways\|Takeaways]]
@@ -11,15 +17,15 @@
 - [[Public Research Overview/Research Topics\|Research Topics]]
 
 { .block-language-dataview}
-## Recent Updates
+## Research Updates
 | Note Link                                                          | Takeaway                                                                                                                                                                                                                                                                         |
 | ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Research/Takeaways/2025-01-17 14-23-19\|2025-01-17 14-23-19]] | <ul><li>Using [[Research/Tags/Hydrolyzed Collagen\|Hydrolyzed Collagen]] as an [[Emulsifer\|Emulsifer]] with [[Research/Tags/Medium Chain Triglycerides (MCTs)\|Medium Chain Triglycerides (MCTs)]] may help increase [[Research/Tags/Ketogenesis\|Ketogenesis]] from MCTs</li></ul>                                                                                                                       |
+| [[Research/Takeaways/2025-01-17 14-23-19\|2025-01-17 14-23-19]] | <ul><li>Using [[Research/Tags/Hydrolyzed Collagen\|Hydrolyzed Collagen]] as an [[Research/Tags/Emulsifier\|Emulsifier]] with [[Research/Tags/Medium Chain Triglycerides (MCTs)\|Medium Chain Triglycerides (MCTs)]] may help increase [[Research/Tags/Ketogenesis\|Ketogenesis]] from MCTs</li></ul>                                                                                                                      |
 | [[Research/Takeaways/2025-01-17 14-23-31\|2025-01-17 14-23-31]] | <ul><li>Using [[Research/Tags/Hydrolyzed Collagen\|Hydrolyzed Collagen]] as an [[Research/Tags/Emulsifier\|Emulsifier]] with [[Research/Tags/Medium Chain Triglycerides (MCTs)\|Medium Chain Triglycerides (MCTs)]] may reduce stomach upset from MCTs</li></ul>                                                                                                                               |
-| [[Research/Takeaways/2025-01-18 16-00-00\|2025-01-18 16-00-00]] | <ul><li>Using [[Research/Tags/Whey Protein Isolate (WPI)\|Whey Protein Isolate (WPI)]] as an [[Emulsifer\|Emulsifer]] with [[Research/Tags/Medium Chain Triglycerides (MCTs)\|Medium Chain Triglycerides (MCTs)]] may help increase [[Research/Tags/Ketogenesis\|Ketogenesis]] from MCTs</li></ul>                                                                                                                |
-| [[Research/Takeaways/2025-01-18 16-00-44\|2025-01-18 16-00-44]] | <ul><li>Using [[Research/Tags/Whey Protein Isolate (WPI)\|Whey Protein Isolate (WPI)]] as an [[Emulsifer\|Emulsifer]] with [[Research/Tags/Medium Chain Triglycerides (MCTs)\|Medium Chain Triglycerides (MCTs)]] may reduce stomach upset from MCTs</li></ul>                                                                                                                         |
-| [[Research/Takeaways/2025-01-27 14-48-29\|2025-01-27 14-48-29]] | <ul><li>Taking at least 3258 mg [[Research/Tags/Bicarbonate\|Bicarbonate]] per day when not fasting can reduce markers of bone resorption</li></ul>                                                                                                                                                         |
-| [[Research/Takeaways/2025-01-27 14-49-24\|2025-01-27 14-49-24]] | <ul><li>Taking at least 8542 mg [[Research/Tags/Bicarbonate\|Bicarbonate]] per day when fasting can prevent calcium loss</li></ul>                                                                                                                                                                          |
+| [[Research/Takeaways/2025-01-18 16-00-00\|2025-01-18 16-00-00]] | <ul><li>Using [[Research/Tags/Whey Protein Isolate (WPI)\|Whey Protein Isolate (WPI)]] as an [[Research/Tags/Emulsifier\|Emulsifier]] with [[Research/Tags/Medium Chain Triglycerides (MCTs)\|Medium Chain Triglycerides (MCTs)]] may help increase [[Research/Tags/Ketogenesis\|Ketogenesis]] from MCTs</li></ul>                                                                                                               |
+| [[Research/Takeaways/2025-01-18 16-00-44\|2025-01-18 16-00-44]] | <ul><li>Using [[Research/Tags/Whey Protein Isolate (WPI)\|Whey Protein Isolate (WPI)]] as an [[Research/Tags/Emulsifier\|Emulsifier]] with [[Research/Tags/Medium Chain Triglycerides (MCTs)\|Medium Chain Triglycerides (MCTs)]] may reduce stomach upset from MCTs</li></ul>                                                                                                                        |
+| [[Research/Takeaways/2025-01-27 14-48-29\|2025-01-27 14-48-29]] | <ul><li>Taking at least 3258 mg [[Research/Tags/Bicarbonate\|Bicarbonate]] per day when not fasting can reduce markers of [[Research/Tags/Bone Resorption\|Bone Resorption]]</li></ul>                                                                                                                                                     |
+| [[Research/Takeaways/2025-01-27 14-49-24\|2025-01-27 14-49-24]] | <ul><li>Taking at least 8542 mg [[Research/Tags/Bicarbonate\|Bicarbonate]] per day when fasting can prevent [[Research/Tags/Calcium (Ca)\|Calcium (Ca)]] loss</li></ul>                                                                                                                                                                 |
 | [[Research/Takeaways/2025-01-28 20-04-35\|2025-01-28 20-04-35]] | <ul><li>Low [[Research/Tags/Alkaline Phosphatase (ALP)\|Alkaline Phosphatase (ALP)]] levels may be caused by deficiencies in [[Research/Tags/Magnesium (Mg)\|Magnesium (Mg)]], [[Research/Tags/Zinc (Zn)\|Zinc (Zn)]], and/or [[Research/Tags/Manganese (Mn)\|Manganese (Mn)]]</li></ul>                                                                                                                        |
 | [[Research/Takeaways/2025-01-28 20-06-42\|2025-01-28 20-06-42]] | <ul><li>[[Research/Tags/Sciatica\|Sciatica]] can be reduced within 6 months after injection of 10±5 million [[Research/Tags/Normoxic-Cultured Autologous Mesenchymal Stem Cells (MSCs)\|Normoxic-Cultured Autologous Mesenchymal Stem Cells (MSCs)]] into a non-torn disc at [[Research/Tags/L5-S1\|L5-S1]], [[Research/Tags/L4-L5\|L4-L5]], or both levels</li></ul>                                                        |
 | [[Research/Takeaways/2025-01-28 20-08-19\|2025-01-28 20-08-19]] | <ul><li>[[Research/Tags/Refeeding\|Refeeding]] after [[Research/Tags/Prolonged Fasting\|Prolonged Fasting]] for at least 3 days may induce whole-body reduction of [[Research/Tags/Senescent Cells\|Senescent Cells]]</li></ul>                                                                                                                                           |
@@ -318,10 +324,3 @@
 | [[Research/Quick Notes/2025-01-28 19-54-20\|2025-01-28 19-54-20]] | <ul><li>[[Research/Tags/Zinc (Zn)\|Zinc (Zn)]] deficiency may cause low [[Research/Tags/Alkaline Phosphatase (ALP)\|Alkaline Phosphatase (ALP)]] activity</li></ul>                                                                                                                                            |
 
 { .block-language-dataview}
-
-# Get in Touch
-- [Email](mailto:learningjourneycontact2024@gmail.com)
-- [GitHub](https://github.com/FlipH19Switch)
-- [Upwork](https://www.upwork.com/freelancers/~011175ac2af7b2650c)
-- [YouTube](https://www.youtube.com/@ZachsLearningJourney)
-- [Reddit](https://old.reddit.com/user/FlipH19Switch/)
