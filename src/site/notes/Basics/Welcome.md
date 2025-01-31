@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/basics/welcome/","tags":["gardenEntry"],"updated":"2025-01-31T16:40:39-05:00"}
+{"dg-publish":true,"permalink":"/basics/welcome/","tags":["gardenEntry"],"updated":"2025-01-31T16:52:03-05:00"}
 ---
 
 # Get in Touch
@@ -18,6 +18,7 @@
 
 { .block-language-dataview}
 ## Research Updates
+### Takeaways
 | Note Link                                                          | Takeaway                                                                                                                                                           |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [[Research/Takeaways/2025-01-17 14-23-19\|2025-01-17 14-23-19]] | <ul><li>Using [[Research/Tags/Hydrolyzed Collagen\|Hydrolyzed Collagen]] as an [[Research/Tags/Emulsifier\|Emulsifier]] with [[Research/Tags/Medium Chain Triglycerides (MCTs)\|Medium Chain Triglycerides (MCTs)]] may help increase [[Research/Tags/Ketogenesis\|Ketogenesis]] from MCTs</li></ul>        |
@@ -29,6 +30,7 @@
 
 { .block-language-dataview}
 
+### Insights
 | Note Link                                                         | Insight                                                                                                                                                                                                                                                                                                                                                     |
 | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Research/Insights/2025-01-20 19-21-47\|2025-01-20 19-21-47]] | <ul><li>Fewer [[Research/Tags/Muscle Stem Cells (MuSCs, Satellite Stem Cells)\|Muscle Stem Cells (MuSCs, Satellite Stem Cells)]] enter [[Research/Tags/S Phase\|S Phase]] when cultured ex vivo when the stem cells are isolated from mice after 2.5-day [[Research/Tags/Prolonged Fasting\|Prolonged Fasting]] mice compared to non-fasted mice as assessed by [[Research/Tags/EdU\|EdU]] incorporation</li></ul>                                                                                    |
@@ -42,10 +44,9 @@
 
 { .block-language-dataview}
 
+### Quick Notes
 | Note Link                                                            | Quick Note                                                                                                                                                                                                                                                                                                                                                                                     |
 | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Research/Quick Notes/2025-01-18 15-50-16\|2025-01-18 15-50-16]] | <ul><li>[[Research/Tags/Whey Protein Isolate (WPI)\|Whey Protein Isolate (WPI)]] can be used as an [[Research/Tags/Emulsifier\|Emulsifier]]</li></ul>                                                                                                                                                                                                                                                                                                              |
-| [[Research/Quick Notes/2025-01-22 17-33-26\|2025-01-22 17-33-26]] | <ul><li>[[Research/Tags/Central Canal Stenosis\|Central Canal Stenosis]] of the [[Research/Tags/Cervical Spine\|Cervical Spine]] can cause [[Research/Tags/Polyneuropathy\|Polyneuropathy]] in the arms and legs</li></ul>                                                                                                                                                                                                                                                                       |
 | [[Research/Quick Notes/2025-01-22 17-47-42\|2025-01-22 17-47-42]] | <ul><li>[[Research/Tags/Glucose\|Glucose]] suppresses the [[Research/Tags/Stress\|Stress]]-induced stimulation of [[Research/Tags/Hormone-Sensitive Lipase (HSL\|Hormone-Sensitive Lipase (HSL]], likely via [[Research/Tags/Insulin\|Insulin]]</li></ul>                                                                                                                                                                                                                                                       |
 | [[Research/Quick Notes/2025-01-28 19-22-32\|2025-01-28 19-22-32]] | <ul><li>A [[Research/Tags/Ketogenic Diet\|Ketogenic Diet]] can reduce the progression of [[Research/Tags/Knee\|Knee]] [[Research/Tags/Osteoarthritis\|Osteoarthritis]] via inhibition of the [[Research/Tags/NLRP3 Inflammasome\|NLRP3 Inflammasome]] in rats who maintain [[Research/Tags/Beta-Hydroxybutyrate (BHB)\|Beta-Hydroxybutyrate (BHB)]] levels ~ 3.0 mM compared to control rats with BHB levels ~0.4-0.8 mM independent of weight. Ketogenic diet protein composition ~10.9% kcal and control diet protein composition ~18.3% kcal.</li></ul> |
 
