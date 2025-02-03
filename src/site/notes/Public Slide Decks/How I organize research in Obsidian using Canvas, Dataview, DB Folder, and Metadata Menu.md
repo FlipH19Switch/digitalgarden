@@ -60,5 +60,5 @@
 - Risk of slowdown <!-- element class="fragment" data-fragment-index="4" -->
 - Getting lost in the canvas <!-- element class="fragment" data-fragment-index="5" -->
 ---
-# Database Fields
+
 YouTube_Video__Slide_Deck:: [[YouTube Videos/How I organize research in Obsidian using Canvas, Dataview, DB Folder, and Metadata Menu\|How I organize research in Obsidian using Canvas, Dataview, DB Folder, and Metadata Menu]]
