@@ -6,5 +6,5 @@
 ## Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sEFW4G27Knk?si=Swf6X_qUPeOfbAeX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 https://www.youtube.com/watch?v=sEFW4G27Knk
-# Database Fields
+
 YouTube_Video__Slide_Deck:: [[Public Slide Decks/How I'm planning a treatment with stem cells.excalidraw\|How I'm planning a treatment with stem cells.excalidraw]]
