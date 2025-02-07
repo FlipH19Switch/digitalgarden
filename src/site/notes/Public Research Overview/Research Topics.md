@@ -103,6 +103,7 @@
 - [[Research/Tags/MitoTracker\|MitoTracker]]
 - [[Research/Tags/Molecular Weight\|Molecular Weight]]
 - [[Research/Tags/Multipotent Progenitors (MPPs)\|Multipotent Progenitors (MPPs)]]
+- [[Research/Tags/Muscle Atrophy\|Muscle Atrophy]]
 - [[Research/Tags/Muscle Stem Cells (MuSCs, Satellite Stem Cells)\|Muscle Stem Cells (MuSCs, Satellite Stem Cells)]]
 - [[Research/Tags/Myostatin\|Myostatin]]
 - [[Research/Tags/Neuropathy\|Neuropathy]]
@@ -137,6 +138,7 @@
 - [[Research/Tags/Pyridoxal 5'-Phosphate (PLP, Vitamin B6)\|Pyridoxal 5'-Phosphate (PLP, Vitamin B6)]]
 - [[Research/Tags/Pyronin Y\|Pyronin Y]]
 - [[Research/Tags/Pyrophosphate (PPi)\|Pyrophosphate (PPi)]]
+- [[Research/Tags/Pyrroloquinoline Quinone (PQQ)\|Pyrroloquinoline Quinone (PQQ)]]
 - [[Research/Tags/Quiescence\|Quiescence]]
 - [[Research/Tags/Racemic Beta-Hydroxybutyrate (DL-BHB)\|Racemic Beta-Hydroxybutyrate (DL-BHB)]]
 - [[Research/Tags/Rapamycin\|Rapamycin]]
@@ -170,5 +172,6 @@
 - [[Research/Tags/Vitamin D\|Vitamin D]]
 - [[Research/Tags/Whey Protein Isolate (WPI)\|Whey Protein Isolate (WPI)]]
 - [[Research/Tags/Zinc (Zn)\|Zinc (Zn)]]
+- [[Research/Tags/β-Galactosidase (D-Galactosidase)\|β-Galactosidase (D-Galactosidase)]]
 
 { .block-language-dataview}
