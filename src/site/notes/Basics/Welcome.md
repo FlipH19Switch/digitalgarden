@@ -1,20 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/basics/welcome/","tags":["gardenEntry"],"updated":"2025-02-03T16:51:14-05:00"}
+{"dg-publish":true,"permalink":"/basics/welcome/","tags":["gardenEntry"],"created":"2025-06-14T23:55:14.505-04:00","updated":"2026-01-31T14:59:35.177-05:00"}
 ---
 
-# Get in Touch
-- [Email](mailto:learningjourneycontact2024@gmail.com)
-- [GitHub](https://github.com/FlipH19Switch)
-- [Upwork](https://www.upwork.com/freelancers/~011175ac2af7b2650c)
-- [YouTube](https://www.youtube.com/@ZachsLearningJourney)
-- [Reddit](https://old.reddit.com/user/FlipH19Switch/)
 # Research
 ## Research Overview
 - [[Public Research Overview/Assumptions\|Assumptions]]
-- [[Public Research Overview/Quick Notes\|Quick Notes]]
-- [[Public Research Overview/Research Topics\|Research Topics]]
-- [[Public Research Overview/Takeaways\|Takeaways]]
 - [[Public Research Overview/Insights\|Insights]]
+- [[Public Research Overview/Research Topics\|Research Topics]]
+- [[Public Research Overview/Quick Notes\|Quick Notes]]
+- [[Public Research Overview/Takeaways\|Takeaways]]
 
 { .block-language-dataview}
 
@@ -23,3 +17,12 @@
 
 
 ### Modified Notes
+
+
+# Get in Touch
+- [Email](mailto:learningjourneycontact2024@gmail.com)
+- [GitHub](https://github.com/FlipH19Switch)
+- [Upwork](https://www.upwork.com/freelancers/~011175ac2af7b2650c)
+- [YouTube](https://www.youtube.com/@ZachsLearningJourney)
+- [Reddit](https://old.reddit.com/user/FlipH19Switch/)
+- [LinkedIn](https://www.linkedin.com/in/zachariah-sellers-a2037993/)

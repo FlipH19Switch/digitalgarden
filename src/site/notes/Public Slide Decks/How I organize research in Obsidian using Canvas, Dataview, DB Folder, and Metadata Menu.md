@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public-slide-decks/how-i-organize-research-in-obsidian-using-canvas-dataview-db-folder-and-metadata-menu/"}
+{"dg-publish":true,"permalink":"/public-slide-decks/how-i-organize-research-in-obsidian-using-canvas-dataview-db-folder-and-metadata-menu/","created":"2025-06-14T23:55:14.726-04:00","updated":"2025-06-14T23:55:14.726-04:00"}
 ---
 
 # HOW I ORGANIZE RESEARCH
@@ -60,5 +60,5 @@
 - Risk of slowdown <!-- element class="fragment" data-fragment-index="4" -->
 - Getting lost in the canvas <!-- element class="fragment" data-fragment-index="5" -->
 ---
-
+# Database Fields
 YouTube_Video__Slide_Deck:: [[YouTube Videos/How I organize research in Obsidian using Canvas, Dataview, DB Folder, and Metadata Menu\|How I organize research in Obsidian using Canvas, Dataview, DB Folder, and Metadata Menu]]

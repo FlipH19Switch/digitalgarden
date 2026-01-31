@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public-research-overview/assumptions/","updated":"2025-01-30T23:21:58-05:00"}
+{"dg-publish":true,"permalink":"/public-research-overview/assumptions/","created":"2025-06-14T23:55:14.726-04:00","updated":"2025-06-14T23:55:14.726-04:00"}
 ---
 
 | Note Link                                                            | Note Content                                                                                                                                                                                                                                                                                                           |

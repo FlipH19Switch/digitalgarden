@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public-scripts/obsidian-scripts/supported-items-js/"}
+{"dg-publish":true,"permalink":"/public-scripts/obsidian-scripts/supported-items-js/","created":"2025-06-14T23:55:14.726-04:00","updated":"2025-06-14T23:55:14.726-04:00"}
 ---
 
 // Grab all inlinks to the current page

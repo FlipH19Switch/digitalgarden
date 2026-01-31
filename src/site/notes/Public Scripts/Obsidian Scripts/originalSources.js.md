@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public-scripts/obsidian-scripts/original-sources-js/"}
+{"dg-publish":true,"permalink":"/public-scripts/obsidian-scripts/original-sources-js/","created":"2025-06-14T23:55:14.726-04:00","updated":"2025-06-14T23:55:14.726-04:00"}
 ---
 
 // Similar to code in [Dataview documentation](https://blacksmithgu.github.io/obsidian-dataview/api/code-examples/#find-all-direct-and-indirectly-linked-pages)
