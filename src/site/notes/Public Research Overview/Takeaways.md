@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public-research-overview/takeaways/","updated":"2025-01-30T23:22:17-05:00"}
+{"dg-publish":true,"permalink":"/public-research-overview/takeaways/","created":"2025-06-14T23:55:14.726-04:00","updated":"2025-06-14T23:55:14.726-04:00"}
 ---
 
 | Note Link                                                          | Note Content                                                                                                                                                                                                                                                                     |
@@ -30,5 +30,6 @@
 | [[Research/Takeaways/2025-02-02 15-04-47\|2025-02-02 15-04-47]] | <ul><li>The effect of [[Research/Tags/Hypoglycemia\|Hypoglycemia]] on plasma [[Research/Tags/Norepinephrine\|Norepinephrine]] levels is independent of blood [[Research/Tags/Insulin\|Insulin]] levels</li></ul>                                                                                                                                                  |
 | [[Research/Takeaways/2025-02-02 15-23-28\|2025-02-02 15-23-28]] | <ul><li>[[Research/Tags/Beta-Hydroxybutyrate (BHB)\|Beta-Hydroxybutyrate (BHB)]] can protect against [[Research/Tags/Hypoglycemia\|Hypoglycemia]]-induced reductions in [[Research/Tags/Cognitive Performance\|Cognitive Performance]]</li></ul>                                                                                                                                            |
 | [[Research/Takeaways/2025-02-02 15-35-37\|2025-02-02 15-35-37]] | <ul><li>Some commercial tracking devices for [[Research/Tags/Body Composition\|Body Composition]] are good enough to serve as cheap alternatives to [[Research/Tags/Dual-Energy X-Ray Absorptiometry (DEXA)\|Dual-Energy X-Ray Absorptiometry (DEXA)]]</li></ul>                                                                                                        |
+| [[Research/Takeaways/2025-03-16 13-20-58\|2025-03-16 13-20-58]] | <ul><li>Increasing dietary sodium is not a concern for calcium balance</li></ul>                                                                                                                                                                                                 |
 
 { .block-language-dataview}
